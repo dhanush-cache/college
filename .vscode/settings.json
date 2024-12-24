@@ -9,5 +9,11 @@
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
-  "python.analysis.autoImportCompletions": true
+  "python.analysis.autoImportCompletions": true,
+
+  "codesnap.target": "window",
+  "codesnap.shutterAction": "copy",
+  "codesnap.roundedCorners": false
+  // Uncomment the following line to remove line numbers for outputs.
+  // "codesnap.showLineNumbers": false
 }
